@@ -1,3 +1,9 @@
 .{
     .name = "zig-rocstd",
+    .version = "1.0.0",
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+    },
 }
